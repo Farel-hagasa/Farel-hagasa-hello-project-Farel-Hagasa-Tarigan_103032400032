@@ -1,7 +1,7 @@
 package main
 
 import "fmt"
-
+// Menambahkan komentar untuk tugas git
 type FoodItem struct {
 	ID         int
 	Name       string
